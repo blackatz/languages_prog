@@ -1,0 +1,15 @@
+E:\Technomagician\Projects\001Hello_console\bin\Debug\net6.0\001Hello_console.exe
+E:\Technomagician\Projects\001Hello_console\bin\Debug\net6.0\001Hello_console.deps.json
+E:\Technomagician\Projects\001Hello_console\bin\Debug\net6.0\001Hello_console.runtimeconfig.json
+E:\Technomagician\Projects\001Hello_console\bin\Debug\net6.0\001Hello_console.dll
+E:\Technomagician\Projects\001Hello_console\bin\Debug\net6.0\001Hello_console.pdb
+E:\Technomagician\Projects\001Hello_console\obj\Debug\net6.0\001Hello_console.csproj.AssemblyReference.cache
+E:\Technomagician\Projects\001Hello_console\obj\Debug\net6.0\001Hello_console.GeneratedMSBuildEditorConfig.editorconfig
+E:\Technomagician\Projects\001Hello_console\obj\Debug\net6.0\001Hello_console.AssemblyInfoInputs.cache
+E:\Technomagician\Projects\001Hello_console\obj\Debug\net6.0\001Hello_console.AssemblyInfo.cs
+E:\Technomagician\Projects\001Hello_console\obj\Debug\net6.0\001Hello_console.csproj.CoreCompileInputs.cache
+E:\Technomagician\Projects\001Hello_console\obj\Debug\net6.0\001Hello_console.dll
+E:\Technomagician\Projects\001Hello_console\obj\Debug\net6.0\refint\001Hello_console.dll
+E:\Technomagician\Projects\001Hello_console\obj\Debug\net6.0\001Hello_console.pdb
+E:\Technomagician\Projects\001Hello_console\obj\Debug\net6.0\001Hello_console.genruntimeconfig.cache
+E:\Technomagician\Projects\001Hello_console\obj\Debug\net6.0\ref\001Hello_console.dll
