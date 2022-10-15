@@ -1,0 +1,15 @@
+E:\Technomagician\Projects\002Hello_user\bin\Debug\net6.0\002Hello_user.exe
+E:\Technomagician\Projects\002Hello_user\bin\Debug\net6.0\002Hello_user.deps.json
+E:\Technomagician\Projects\002Hello_user\bin\Debug\net6.0\002Hello_user.runtimeconfig.json
+E:\Technomagician\Projects\002Hello_user\bin\Debug\net6.0\002Hello_user.dll
+E:\Technomagician\Projects\002Hello_user\bin\Debug\net6.0\002Hello_user.pdb
+E:\Technomagician\Projects\002Hello_user\obj\Debug\net6.0\002Hello_user.csproj.AssemblyReference.cache
+E:\Technomagician\Projects\002Hello_user\obj\Debug\net6.0\002Hello_user.GeneratedMSBuildEditorConfig.editorconfig
+E:\Technomagician\Projects\002Hello_user\obj\Debug\net6.0\002Hello_user.AssemblyInfoInputs.cache
+E:\Technomagician\Projects\002Hello_user\obj\Debug\net6.0\002Hello_user.AssemblyInfo.cs
+E:\Technomagician\Projects\002Hello_user\obj\Debug\net6.0\002Hello_user.csproj.CoreCompileInputs.cache
+E:\Technomagician\Projects\002Hello_user\obj\Debug\net6.0\002Hello_user.dll
+E:\Technomagician\Projects\002Hello_user\obj\Debug\net6.0\refint\002Hello_user.dll
+E:\Technomagician\Projects\002Hello_user\obj\Debug\net6.0\002Hello_user.pdb
+E:\Technomagician\Projects\002Hello_user\obj\Debug\net6.0\002Hello_user.genruntimeconfig.cache
+E:\Technomagician\Projects\002Hello_user\obj\Debug\net6.0\ref\002Hello_user.dll
