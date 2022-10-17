@@ -11,5 +11,6 @@ if (0 < input1 && input1 < 8)
     if (input1 == 4) Console.WriteLine("Это четверг");
     if (input1 == 5) Console.WriteLine("Это пятница");
   }
-  else 
+  else {
   Console.WriteLine("Такого дня нет");
+  }
