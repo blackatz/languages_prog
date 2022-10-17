@@ -1,0 +1,15 @@
+E:\Technomagician\Projects\004Div\obj\Debug\net6.0\004Div.csproj.AssemblyReference.cache
+E:\Technomagician\Projects\004Div\obj\Debug\net6.0\004Div.GeneratedMSBuildEditorConfig.editorconfig
+E:\Technomagician\Projects\004Div\obj\Debug\net6.0\004Div.AssemblyInfoInputs.cache
+E:\Technomagician\Projects\004Div\obj\Debug\net6.0\004Div.AssemblyInfo.cs
+E:\Technomagician\Projects\004Div\obj\Debug\net6.0\004Div.csproj.CoreCompileInputs.cache
+E:\Technomagician\Projects\004Div\bin\Debug\net6.0\004Div.exe
+E:\Technomagician\Projects\004Div\bin\Debug\net6.0\004Div.deps.json
+E:\Technomagician\Projects\004Div\bin\Debug\net6.0\004Div.runtimeconfig.json
+E:\Technomagician\Projects\004Div\bin\Debug\net6.0\004Div.dll
+E:\Technomagician\Projects\004Div\bin\Debug\net6.0\004Div.pdb
+E:\Technomagician\Projects\004Div\obj\Debug\net6.0\004Div.dll
+E:\Technomagician\Projects\004Div\obj\Debug\net6.0\refint\004Div.dll
+E:\Technomagician\Projects\004Div\obj\Debug\net6.0\004Div.pdb
+E:\Technomagician\Projects\004Div\obj\Debug\net6.0\004Div.genruntimeconfig.cache
+E:\Technomagician\Projects\004Div\obj\Debug\net6.0\ref\004Div.dll
