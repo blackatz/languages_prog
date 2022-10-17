@@ -1,0 +1,15 @@
+E:\Technomagician\Projects\005Masha\obj\Debug\net6.0\005Masha.csproj.AssemblyReference.cache
+E:\Technomagician\Projects\005Masha\obj\Debug\net6.0\005Masha.GeneratedMSBuildEditorConfig.editorconfig
+E:\Technomagician\Projects\005Masha\obj\Debug\net6.0\005Masha.AssemblyInfoInputs.cache
+E:\Technomagician\Projects\005Masha\obj\Debug\net6.0\005Masha.AssemblyInfo.cs
+E:\Technomagician\Projects\005Masha\obj\Debug\net6.0\005Masha.csproj.CoreCompileInputs.cache
+E:\Technomagician\Projects\005Masha\bin\Debug\net6.0\005Masha.exe
+E:\Technomagician\Projects\005Masha\bin\Debug\net6.0\005Masha.deps.json
+E:\Technomagician\Projects\005Masha\bin\Debug\net6.0\005Masha.runtimeconfig.json
+E:\Technomagician\Projects\005Masha\bin\Debug\net6.0\005Masha.dll
+E:\Technomagician\Projects\005Masha\bin\Debug\net6.0\005Masha.pdb
+E:\Technomagician\Projects\005Masha\obj\Debug\net6.0\005Masha.dll
+E:\Technomagician\Projects\005Masha\obj\Debug\net6.0\refint\005Masha.dll
+E:\Technomagician\Projects\005Masha\obj\Debug\net6.0\005Masha.pdb
+E:\Technomagician\Projects\005Masha\obj\Debug\net6.0\005Masha.genruntimeconfig.cache
+E:\Technomagician\Projects\005Masha\obj\Debug\net6.0\ref\005Masha.dll
