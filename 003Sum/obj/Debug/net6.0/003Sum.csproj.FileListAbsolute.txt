@@ -1,0 +1,15 @@
+E:\Technomagician\Projects\003Sum\obj\Debug\net6.0\003Sum.csproj.AssemblyReference.cache
+E:\Technomagician\Projects\003Sum\obj\Debug\net6.0\003Sum.GeneratedMSBuildEditorConfig.editorconfig
+E:\Technomagician\Projects\003Sum\obj\Debug\net6.0\003Sum.AssemblyInfoInputs.cache
+E:\Technomagician\Projects\003Sum\obj\Debug\net6.0\003Sum.AssemblyInfo.cs
+E:\Technomagician\Projects\003Sum\obj\Debug\net6.0\003Sum.csproj.CoreCompileInputs.cache
+E:\Technomagician\Projects\003Sum\bin\Debug\net6.0\003Sum.exe
+E:\Technomagician\Projects\003Sum\bin\Debug\net6.0\003Sum.deps.json
+E:\Technomagician\Projects\003Sum\bin\Debug\net6.0\003Sum.runtimeconfig.json
+E:\Technomagician\Projects\003Sum\bin\Debug\net6.0\003Sum.dll
+E:\Technomagician\Projects\003Sum\bin\Debug\net6.0\003Sum.pdb
+E:\Technomagician\Projects\003Sum\obj\Debug\net6.0\003Sum.dll
+E:\Technomagician\Projects\003Sum\obj\Debug\net6.0\refint\003Sum.dll
+E:\Technomagician\Projects\003Sum\obj\Debug\net6.0\003Sum.pdb
+E:\Technomagician\Projects\003Sum\obj\Debug\net6.0\003Sum.genruntimeconfig.cache
+E:\Technomagician\Projects\003Sum\obj\Debug\net6.0\ref\003Sum.dll
