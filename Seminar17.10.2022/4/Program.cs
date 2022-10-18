@@ -4,11 +4,18 @@
 Console.WriteLine("Программа вычисления всех четных чисел от N до -N.");
 Console.WriteLine("Введите N: ");
 int N = int.Parse(Console.ReadLine()!);
-int count = 0, number1 = N, number2 = - N, what = number2;
+int N2 = N * (-1);
 
-while (0 > number2)
-{ 
-    what = number2 + count;
-    count++;
-    Console.WriteLine(what);
+if (N < 0)
+
+{
+    int temp = N;
+    N = N2;
+    N2 = temp;
 }
+
+    while (N2 <= N)
+    { 
+        Console.Write(N2 + " ");
+        N2++;
+    }
