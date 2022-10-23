@@ -6,10 +6,10 @@ int GenerateRandomNumber()
     return new Random().Next(10, 100);
 }
 
-int GetMaxDigit(int random) 
+int GetMaxDigit(int random)
 {
     int firstnumber = random / 10; //деление на 10, десятки
-    int secondnumber = random %10; //остаток от деления на 10, единицы
+    int secondnumber = random % 10; //остаток от деления на 10, единицы
 
     // показать наибольшую цифру числа
 

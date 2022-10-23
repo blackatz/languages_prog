@@ -6,17 +6,14 @@ int GenerateRandomNumber()
     return new Random().Next(100, 1000);
 }
 
-int Number(int random) 
+int OutSecondDigit(int randomNumber)
 {
-    int firstnumber = random / 100; //количество сотен
-    int secondnumber = random %100; //остаток от деления на 10, количество единиц в числе
-
-    return random;
+    Console.WriteLine(randomNumber);
+    int firstnumber = randomNumber / 100;
+    int thirdnumber = randomNumber %10;
+    return (firstnumber*10 + thirdnumber);
 }
 
-int random = GenerateRandomNumber();
-int number = Number(random);
+int randomNumber = GenerateRandomNumber();
 
-Console.WriteLine("Сгенерировано число " + random);
-Console.WriteLine("Сделано число " + number);
-
+Console.WriteLine(OutSecondDigit(randomNumber));
